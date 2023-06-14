@@ -96,8 +96,8 @@ else:
 num1 = int(input("숫자1 입력 : "))
 car = input("연산 입력 : ")
 num2 = int(input("숫자2 입력 : "))
-con=0
-if car=="+":
+con=0 
+if car=="+": 
     con=num1+num2
 elif car=="-":
     con=num1-num2

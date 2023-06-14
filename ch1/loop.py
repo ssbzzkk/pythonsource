@@ -32,9 +32,10 @@ print("k" not in "python") #True
 print(range(5)) #range(0, 5) => 0~4
 print(list(range(1,5))) # [1, 2, 3, 4] 
 print(list(range(0,10,2))) #[0, 2, 4, 6, 8]
-
+ 
 # for
 for i in range(10):
     print(i,end=" ")
 for i in range(1,101):
     print(i,end=" ")
+ 

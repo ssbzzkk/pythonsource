@@ -4,7 +4,7 @@
 """
 '''
 여러줄 주석
-'''
+''' 
 
 #화면출력 - print() /type()
 print("hello python!!")

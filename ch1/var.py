@@ -83,9 +83,10 @@ print("100원 : {}개".format(c100))
 print("50원 : {}개".format(c50))
 print("10원 : {}개".format(c10))
 print("나머지 돈: {}원".format(money))
-
+ 
 # \\, &&, !(x) ==> or, and, not
 a,b,c = 100,60,15
 print("and:", a>b and a>c)
 print("or:", a>b or a>c)
 print("not:", not(a>b))
+ 
